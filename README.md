@@ -34,3 +34,10 @@ npm start
 - add()
 - remove()
 - contains()
+# How to use the finished version of the game:
+1) Download the game;
+2) Press the "Start/Rause" button to draw.
+3) Blocks will appear on the large field, which can be controlled using the arrows (up, down, right, left)
+4) In the small field on the right, you will see each subsequent block.
+5) When a horizontal line is fully completed, it will automatically disappear, and you will receive 10 points for each.
+6) If the entire playing field is filled, the game automatically stops and you see the inscription "end"
